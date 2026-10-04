@@ -10,7 +10,3 @@ Tech Stack
 - **Data & Analytics:** Jupyter Notebook, Python
 - **Web Development:** PHP, HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
-
-GitHub Stats
-![krisnual's GitHub stats](https://vercel.app)
-
