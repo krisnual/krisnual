@@ -11,5 +11,5 @@ Tech Stack
 - **Web Development:** PHP, HTML, CSS, JavaScript
 - **Tools:** Git, GitHub
 
-GitHub Stats
-![krisnual's GitHub stats](https://vercel.app)
+My Streak Stats
+![Krisnual's Streak](https://herokuapp.com)
