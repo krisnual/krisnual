@@ -1,12 +1,11 @@
-Hi, I'm krisnual
+Tugas Praktik Git & GitHub
 
-About Me
-I am a developer interested in Data Science and Web Development. Currently focused on exploring data analysis, machine learning, and building interactive applications.
+Nama: Krisna Nur Alamsyah
+NIM: A11.2023.15229
+Kelas: A11.4701 (DEV-01)
+Mata Kuliah: Bengkel Koding
 
--  Looking for opportunities to collaborate on open-source projects.
--  Currently learning advanced Data Mining and Web Technologies.
+---
 
-Tech Stack
-- **Data & Analytics:** Jupyter Notebook, Python
-- **Web Development:** PHP, HTML, CSS, JavaScript
-- **Tools:** Git, GitHub
+Deskripsi Singkat
+Repository ini dibuat untuk memenuhi Tugas Praktik Bengkel Koding mengenai pengelolaan Git dan GitHub. Proyek ini berisi informasi data diri Krisna Nur Alamsyah, mahasiswa Teknik Informatika Dian Nuswantoro University yang berfokus pada Web Development dan Data Science.
